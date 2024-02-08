@@ -25,3 +25,9 @@ Este repositório é destinado ao meu próprio aprendizado e referência. As inf
 Este repositório é licenciado sob a [Licença MIT](LICENSE.md).
 
 Espero que este repositório seja útil em minha jornada de aprendizado em Pact Foundation!
+
+## Como executar
+
+Para iniciar o postgres, pact-broker e nginx:
+
+`docker-compose up -d`
